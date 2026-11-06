@@ -1,0 +1,20 @@
+year,school,field,problem,value
+2020,University of California-Merced,doctor_fte,Missing or nonnumeric,<NA>
+2020,University of California-Santa Barbara,doctor_fte,Missing or nonnumeric,<NA>
+2020,University of California-Santa Cruz,doctor_fte,Missing or nonnumeric,<NA>
+2021,University of California-Merced,doctor_fte,Missing or nonnumeric,<NA>
+2021,University of California-Santa Barbara,doctor_fte,Missing or nonnumeric,<NA>
+2021,University of California-Santa Cruz,doctor_fte,Missing or nonnumeric,<NA>
+2022,University of California-Merced,doctor_fte,Missing or nonnumeric,<NA>
+2022,University of California-Santa Barbara,doctor_fte,Missing or nonnumeric,<NA>
+2022,University of California-Santa Cruz,doctor_fte,Missing or nonnumeric,<NA>
+2023,University of California-Merced,doctor_fte,Missing or nonnumeric,<NA>
+2023,University of California-Santa Barbara,doctor_fte,Missing or nonnumeric,<NA>
+2023,University of California-Santa Cruz,doctor_fte,Missing or nonnumeric,<NA>
+2024,University of California-Merced,doctor_fte,Missing or nonnumeric,<NA>
+2024,University of California-Santa Barbara,doctor_fte,Missing or nonnumeric,<NA>
+2024,University of California-Santa Cruz,doctor_fte,Missing or nonnumeric,<NA>
+2021,University of California-Irvine,public_service,Year-over-year change exceeds 50%,75.81
+2021,University of California-San Diego,public_service,Year-over-year change exceeds 50%,54.44
+2024,University of California-Riverside,academic_support,Year-over-year change exceeds 50%,96.79
+2024,University of California-San Diego,academic_support,Year-over-year change exceeds 50%,51.54

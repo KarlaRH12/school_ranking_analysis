@@ -1,0 +1,43 @@
+MARPP Regional price parities by MSA
+(index)
+Metropolitan Statistical Area
+GeoFIPS,GeoName,LineCode,Description,2020,2021,2022,2023,2024
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",1,RPPs: All items,113.884,114.151,113.308,114.749,113.566
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",106.541,108.936,106.507,107.082,106.623
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",183.551,181.470,176.890,172.984,170.433
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",117.634,132.299,149.061,140.692,158.589
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",102.682,102.857,103.651,106.100,104.362
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",1,RPPs: All items,104.421,105.586,106.698,107.341,106.442
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",102.817,100.662,102.455,101.951,101.431
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",126.346,129.551,129.176,131.954,129.312
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",144.452,151.496,155.175,164.260,148.641
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",97.267,100.470,101.142,101.604,101.281
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",1,RPPs: All items,106.957,106.271,109.904,109.091,106.670
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",104.497,106.870,108.965,104.934,105.168
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",134.007,132.636,131.468,133.442,130.230
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",130.505,140.262,144.200,138.347,151.290
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",100.438,98.562,103.901,104.232,100.267
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",1,RPPs: All items,115.144,115.054,114.630,110.741,111.887
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",106.787,107.184,108.016,102.247,107.963
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",184.661,189.979,183.853,185.782,179.267
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",163.360,166.292,166.168,158.314,174.247
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",103.208,103.380,102.983,99.945,99.597
+41860,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",1,RPPs: All items,119.582,120.038,118.003,117.551,115.613
+41860,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",113.011,113.821,114.389,115.218,108.465
+41860,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",227.095,213.496,206.313,200.124,194.718
+41860,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",161.276,167.014,170.412,162.190,172.585
+41860,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",105.153,108.160,105.925,105.393,106.207
+42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",1,RPPs: All items,111.702,109.079,114.742,112.774,109.896
+42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",104.497,106.870,108.965,104.934,105.168
+42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",189.866,168.238,184.987,175.019,164.328
+42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",131.513,139.393,143.597,138.319,152.716
+42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",100.438,98.562,103.901,104.232,100.267
+42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",1,RPPs: All items,111.972,111.805,114.003,113.727,108.798
+42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",2,"  RPPs: Goods",104.497,106.870,108.965,104.934,105.168
+42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",3,"  RPPs: Services: Housing",181.573,187.087,172.191,175.405,151.394
+42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",4,"  RPPs: Services: Utilities",126.908,136.572,141.282,133.357,149.807
+42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",5,"  RPPs: Services: Other",100.438,98.562,103.901,104.232,100.267
+
+Legend/Footnotes
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 23-01 issued July 21, 2023."
+"  Last updated: February 19, 2026-- new statistics for 2024; revised statistics for 2008-2023."

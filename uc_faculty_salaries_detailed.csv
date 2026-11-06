@@ -1,0 +1,41 @@
+school,year,metro,raw_salary,rpp,adjusted_salary
+UC Berkeley,2020,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",163401,119.582,136643.4747704504
+UC Berkeley,2021,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",170122,120.038,141723.45423949082
+UC Berkeley,2022,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",175852,118.003,149023.32991534114
+UC Berkeley,2023,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",182654,117.551,155382.7700317309
+UC Berkeley,2024,"San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",192150,115.613,166201.03275583196
+UC Davis,2020,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",138585,106.957,129570.76208195818
+UC Davis,2021,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",143378,106.271,134917.3339857534
+UC Davis,2022,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",151148,109.904,137527.29654971612
+UC Davis,2023,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",159262,109.091,145990.04500829583
+UC Davis,2024,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",165182,106.67,154853.28583481765
+UC Irvine,2020,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",148395,113.884,130303.64230269396
+UC Irvine,2021,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",150651,114.151,131975.19075610375
+UC Irvine,2022,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",158235,113.308,139650.33360398206
+UC Irvine,2023,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",164295,114.749,143177.7183243427
+UC Irvine,2024,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",173702,113.566,152952.46816828978
+UC Los Angeles,2020,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",175092,113.884,153745.9168978961
+UC Los Angeles,2021,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",177632,114.151,155611.42696954033
+UC Los Angeles,2022,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",188356,113.308,166233.62869347265
+UC Los Angeles,2023,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",197756,114.749,172337.88529747538
+UC Los Angeles,2024,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",207437,113.566,182657.66162407762
+UC Riverside,2020,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",129016,104.421,123553.69130730408
+UC Riverside,2021,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",133120,105.586,126077.3208569318
+UC Riverside,2022,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",140862,106.698,132019.3443176067
+UC Riverside,2023,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",146692,107.341,136659.80380283395
+UC Riverside,2024,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",153881,106.442,144567.9337103775
+UC San Diego,2020,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",149013,115.144,129414.4723129299
+UC San Diego,2021,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",152248,115.054,132327.42885949207
+UC San Diego,2022,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",158600,114.63,138358.1959347466
+UC San Diego,2023,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",166100,110.741,149989.61540892714
+UC San Diego,2024,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",172028,111.887,153751.552906057
+UC Santa Barbara,2020,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",152084,111.972,135823.24152466687
+UC Santa Barbara,2021,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",158904,111.805,142126.02298644962
+UC Santa Barbara,2022,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",168812,114.003,148076.80499635974
+UC Santa Barbara,2023,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",178195,113.727,156686.62674650698
+UC Santa Barbara,2024,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",186097,108.798,171048.18103273958
+UC Santa Cruz,2020,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",137070,111.702,122710.42595477252
+UC Santa Cruz,2021,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",139736,109.079,128105.31816389957
+UC Santa Cruz,2022,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",146915,114.742,128039.42758536541
+UC Santa Cruz,2023,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",152591,112.774,135306.8969798003
+UC Santa Cruz,2024,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",161983,109.896,147396.62954065664
