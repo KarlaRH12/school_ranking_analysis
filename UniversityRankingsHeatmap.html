@@ -17,18 +17,7 @@ Plotly.newPlot(
   "heatmap",
   [background, heatmap],
   layout
-).then(() => {
-  const labels = document.querySelectorAll(
-    "#heatmap .ytick text"
-  );
-
-  labels.forEach(label => {
-    if (label.textContent.includes("Santa Barbara")) {
-      label.setAttribute("font-weight", "bold");
-      label.style.fontWeight = "700";
-    }
-  });
-});
+);
 </script>
 </body>
 </html>
