@@ -4,7 +4,7 @@
 
 This project analyzes changes in U.S. university rankings over time, with a particular focus on the University of California (UC) system and UC Santa Barbara (UCSB).
 
-Using Python, university ranking datasets, and interactive visualizations, the project explores how university rankings have shifted, identifies trends among public and private institutions, and compares the performance of UC campuses.
+Using Python, Javascript, university ranking datasets, and interactive visualizations, the project explores how university rankings have shifted, identifies trends among public and private institutions, and compares the performance of UC campuses.
 
 The analysis was developed to support a data-driven article for *The Daily Nexus*, UC Santa Barbara's independent student newspaper, examining UCSB's changing position in national university rankings.
 
@@ -13,94 +13,120 @@ The analysis was developed to support a data-driven article for *The Daily Nexus
 - Analyze historical changes in national university rankings.
 - Compare ranking trends across UC campuses and other universities.
 - Identify universities experiencing significant increases or decreases in rankings.
-- Develop interactive heatmaps to visualize changes over time.
-- Explore patterns in university rankings and communicate findings through data journalism.
-
-## Technologies Used
-
-- **Python:** Data cleaning, processing, and exploratory analysis
-- **Pandas:** Data manipulation and aggregation
-- **Jupyter Notebook:** Analysis and documentation
-- **HTML and JavaScript:** Interactive data visualizations
-- **CSV and Excel:** Data storage and organization
-- **Node.js / npm:** JavaScript dependencies
+- Develop heatmaps to visualize changes over time.
 
 
 ## File Descriptions
 
+### Data Analysis and Notebooks
+
 | File | Description |
 |---|---|
-| `UniversityRankings.csv` | Historical university ranking dataset used for comparative analysis. |
-| `UniversityRankingsHeatmap.html` | Interactive visualization of university rankings over time. |
-| `analysis_rankings.ipynb` | Jupyter Notebook containing Python-based ranking analysis. |
-| `analysis_rankings.html` | HTML export of the ranking analysis notebook. |
-| `hd2024.csv` | Institutional data used for additional university comparisons. |
-| `hd2024.xlsx` | Excel version of the institutional dataset. |
+| `analysis_rankings.ipynb` | Main Jupyter Notebook containing Python-based analysis of historical university rankings. |
+| `for_fun_analysis.ipynb` | Additional exploratory data analysis and experimentation. |
+| `javascript_analysis.ipynb` | Notebook used for JavaScript visualization development and experimentation. |
+| `javascript_analysis.ts` | TypeScript source file for ranking analysis and visualization development. |
+| `javascript_analysis.html` | HTML output of JavaScript-related analysis. |
 | `java_analysis` | Additional JavaScript-related analysis file. |
-| `javascript_analysis.ipynb` | Notebook containing JavaScript-related analysis and experimentation. |
-| `public_university_heatmap.html` | Visualization focusing on public universities. |
-| `uc_rankings_heatmap.html` | Heatmap comparing ranking changes across UC campuses. |
-| `package.json` | Node.js project configuration and dependencies. |
+
+### Ranking and Institutional Data
+
+| File | Description |
+|---|---|
+| `UniversityRankings.csv` | Historical national university rankings used to compare institutional performance over time. |
+| `hd2024.csv` | IPEDS institutional characteristics dataset for 2024. |
+| `hd2024.xlsx` | Excel version of the 2024 institutional characteristics dataset. |
+| `Data_11-5-2026.csv` | Additional data file used in the analysis. |
+| `Data_11-5-2026_2.csv` | Additional data file used in the analysis. |
+| `faculty_sal.csv` | Faculty salary dataset used for institutional comparisons. |
+
+### UC Financial and Institutional Analysis
+
+| File | Description |
+|---|---|
+| `uc_faculty_salaries.csv` | Dataset comparing faculty salaries across UC campuses. |
+| `uc_faculty_salaries_detailed.csv` | Detailed faculty compensation data used for further analysis. |
+| `uc_faculty_salaries_flourish.csv` | Faculty salary data formatted for visualization in Flourish. |
+| `uc_financial_resources_detailed.csv` | Detailed financial resources data used for comparisons between UC campuses. |
+| `uc_financial_resources_flourish.csv` | Financial resources dataset formatted for visualization in Flourish. |
+| `uc_spending_per_student.csv` | Dataset comparing university spending per student across UC campuses. |
+
+### IPEDS Data Validation
+
+| File | Description |
+|---|---|
+| `uc_ipeds_audit_issues.csv` | Records of identified issues in the IPEDS datasets. |
+| `uc_ipeds_audit_long_data.csv` | IPEDS data organized in long format for auditing and analysis. |
+| `uc_ipeds_audit_summary.csv` | Summary of IPEDS data audit results. |
+| `uc_ipeds_status_flags.csv` | Status flags used to identify or track IPEDS data conditions. |
+
+### Interactive Visualizations
+
+| File | Description |
+|---|---|
+| `UniversityRankingsHeatmap.html` | Interactive visualization of historical national university rankings. |
+| `public_university_heatmap.html` | Heatmap comparing national ranking trends among public universities. |
+| `uc_rankings_heatmap.html` | Heatmap comparing historical rankings across University of California campuses. |
+| `uc_graduation_rates.html` | HTML visualization of graduation rates across UC campuses. |
+
+### Project Configuration
+
+| File | Description |
+|---|---|
+| `package.json` | Node.js configuration and project dependencies. |
 | `package-lock.json` | Dependency lockfile for reproducible installation. |
+| `README.md` | Project overview, documentation, and instructions. |
 
-## Visualizations
-
-The repository includes several HTML-based visualizations:
-
-### 1. National University Rankings Heatmap
-
-`UniversityRankingsHeatmap.html`
-
-Visualizes changes in university rankings across multiple years, allowing readers to compare institutional performance and identify notable shifts.
-
-### 2. Public University Rankings Heatmap
-
-`public_university_heatmap.html`
-
-Focuses on ranking trends among public universities to provide a more targeted comparison of public higher education institutions.
-
-### 3. UC System Rankings Heatmap
-
-`uc_rankings_heatmap.html`
-
-Compares rankings across University of California campuses, highlighting changes in their relative positions over time.
 
 ## How to Explore the Project
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone <repository-url>
-   cd University-Rankings
+   cd <repository-directory>
    ```
 
-2. Open `analysis_rankings.ipynb` in Jupyter Notebook or VS Code to explore the Python analysis.
+2. **Explore the analysis notebooks:**
 
-3. Open the HTML visualization files in a web browser to view the ranking heatmaps.
+   - `analysis_rankings.ipynb` — Python notebook containing historical university ranking analysis and institutional comparisons.
+   - `javascript_analysis.ipynb` — Notebook containing the analysis and visualizations developed for the investigative article in *The Daily Nexus*.
+   - `for_fun_analysis.ipynb` — Additional exploratory analysis using Java.
 
-4. If working with the JavaScript components, install the project dependencies:
+3. **View the interactive visualizations:**
+
+   Open the following HTML files in a web browser:
+
+   - `UniversityRankingsHeatmap.html` — Historical national university ranking trends.
+   - `public_university_heatmap.html` — Rankings of public universities.
+   - `uc_rankings_heatmap.html` — Ranking comparisons across UC campuses.
+   - `uc_graduation_rates.html` — Graduation rate comparisons across UC campuses.
+
+4. **Explore the institutional datasets:**
+
+   - `uc_spending_per_student.csv` — University spending per student.
+   - `uc_faculty_salaries.csv` — Faculty salary comparisons.
+   - `uc_financial_resources_detailed.csv` — Institutional financial resources.
+   - `uc_ipeds_audit_summary.csv` — Summary of IPEDS data validation.
+
+5. **Explore the JavaScript components:**
+
+   The JavaScript and TypeScript files contain additional visualization development work. To install the project dependencies, run:
 
    ```bash
    npm install
    ```
 
+   The HTML visualizations can be opened directly in a browser without installing Node.js dependencies.
+
 ## Data Sources
 
 The project uses historical university rankings and institutional datasets, including:
 
+- Andrew Reiter's University Rankings Dataset — Historical university ranking data 
 - U.S. News & World Report — Best National Universities rankings
 - Integrated Postsecondary Education Data System (IPEDS) — Institutional data
-
-## Project Context
-
-This project contributes to a broader investigation of UCSB's changing national university ranking, including comparisons with other UC campuses and an examination of factors that influence institutional rankings.
-
-The goal is to make complex higher education data more accessible through reproducible analysis, clear visualizations, and data-driven reporting.
 
 ## Author
 
 **Karla Hernandez**  
-Statistics & Data Science and Mathematics  
-University of California, Santa Barbara
-
-Data Reporter, *The Daily Nexus*
